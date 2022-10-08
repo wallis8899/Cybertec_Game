@@ -1,6 +1,6 @@
-pip install Fore
-pip install playsound
-pip install pyfiglet
-pip install pyautogui
-pip install figlet_format
-pip install colorama
+Fore
+playsound
+pyfiglet
+pyautogui
+figlet_format
+colorama
