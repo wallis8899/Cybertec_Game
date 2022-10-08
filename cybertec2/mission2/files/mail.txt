@@ -1,0 +1,12 @@
+Agent,
+      You did a great job, and i have a new one for you.
+      I want you to hack the "Kevin server" and open a file
+      called "info.txt",You will find the username and password
+      for an ftp server,copy a file called "users.txt".
+Note:Donot open the ""users.txt file
+
+Kevin server
+ip = 185.0.72.18
+
+Target ftp server
+ip = 10.22.15.32

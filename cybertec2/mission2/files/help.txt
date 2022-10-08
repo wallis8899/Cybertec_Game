@@ -1,0 +1,8 @@
+nmap to scan ip = namp "target ip"
+cp to copy = cp "file name"  server
+clear to clear = clear
+cat to open a file = cat "filename"
+search exploits to search for exploits = search exploits
+fpt to connect to a frp server = ftp "username"@"password" "ip"
+exec = to exploit system = exec "exploitname" "ip"
+mail to open available emails = mail 

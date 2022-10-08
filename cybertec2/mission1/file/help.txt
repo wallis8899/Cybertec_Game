@@ -1,0 +1,6 @@
+use nmap to scan target = nmap "target ip"
+use search exploit to search fo available exploits = search exploit
+use exec command to exploit system = exec "exploit name" ""target ip
+cp to copy file to another directory = cp "file name" "server"
+ls command to list files in a directory = ls
+cat commant to open a spefic file = cat ""file name
